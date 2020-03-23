@@ -18,7 +18,7 @@
 
 (örn:0.2)
 
-Örnekte gördüğünüz gibi eğitimde başarı çok iyi kayıp da az,
+Örnekte gördüğünüz gibi eğitimde başarı yüksek loss değeri de küçük,
 
 Ancak Doğrulama veri setinde modelimizin genelleştirme yapamadığını fark ettik. aşırı uyduran bir model oldu.
 
