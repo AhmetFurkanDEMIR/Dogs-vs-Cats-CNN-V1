@@ -18,3 +18,7 @@
 
 (örn:0.2)
 
+Örnekte gördüğünüz gibi eğitimde başarı çok iyi kayıp da az,
+
+Ancak Doğrulama veri setinde modelimizin genelleştirme yapamadığını fark ettik. aşırı uyduran bir model oldu.
+
