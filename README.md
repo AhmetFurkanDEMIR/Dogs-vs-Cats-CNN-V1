@@ -1,6 +1,6 @@
 # Dogs vs Cats CNN V1 ◕
 
-* Dogs vs Cats dataset 'i 2013 yılında bir yarışmanın parçası olarak Kaggle tarafından sunulmaya başlandı.
+* Dogs vs Cats dataset 'i (Kedi ve Köpek resimleri) 2013 yılında bir yarışmanın parçası olarak Kaggle tarafından sunulmaya başlandı.
 
 * V1 sürümünde yaptıklarımız: 
  
