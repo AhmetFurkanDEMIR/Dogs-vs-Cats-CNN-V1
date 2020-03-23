@@ -6,11 +6,11 @@
  
  1-) Verileri parçaladık (Test, Train, Validation)
  
- 2-) CNN (evrişimli sinir ağları) oluşturduk.
+ 2-) Modelimizi oluşturduk.
  
- 3-) Modelimizi oluşturduk.
+ 3-) CNN (evrişimli sinir ağları) oluşturduk.
  
- 4-) veri ön işleme (verileri vektör haline getirme)
+ 4-) Veri ön işleme (verileri vektör haline getirme)
  
  5-) Eğitimi yapıp görselleştirdik. (örn:0.2) 
 
