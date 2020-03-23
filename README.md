@@ -22,3 +22,5 @@
 
 Ancak Doğrulama veri setinde modelimizin genelleştirme yapamadığını fark ettik. aşırı uyduran bir model oldu.
 
+Dogs vs Cats CNN V2 de ise bu sorunu çözüp, Kedi resmini modelimize verdiğimizde hangi sınıfa ait olduğunu öğreneceğiz (Test)
+
