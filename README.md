@@ -13,3 +13,8 @@
  4-) veri ön işleme (verileri vektör haline getirme)
  
  5-) Eğitimi yapıp görselleştirdik. (örn:0.2) 
+
+![Screenshot_2020-03-23_15-24-00](https://user-images.githubusercontent.com/54184905/77327526-6cd35800-6d2c-11ea-8161-a56f934726cb.png)
+
+(örn:0.2)
+
